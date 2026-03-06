@@ -1,4 +1,4 @@
-c<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -150,4 +150,5 @@ c<!DOCTYPE html>
 
 </body>
 </html>
+
 
